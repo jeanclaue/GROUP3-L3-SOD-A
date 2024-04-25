@@ -104,34 +104,9 @@ a{
 	height: 100px;
 	display: flex;
 }
-.logo{
-	background-image: url(nandy\ mine.png);
-	background: pink;
-	
 
-}
-.logo,.announce{
-	flex: 1;
-}
-.nav{
-	height: 100px;
-	text-align: center;
-	font-style: italic;
-	font-size: 50px;
-	position: sticky;
-	top: 0;
 
-}
-.section{
-background-color: rgb(212, 232, 245);
-height: 500px;
-text-align: center;
-font-size: 30px;
-}
-.footer{
-	background-color: rgba(28, 46, 53, 0.826);
-	height: 200px;
-}
+
 .head{
 background: aliceblue;
 }
