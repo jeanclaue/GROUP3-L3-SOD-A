@@ -21,7 +21,7 @@
 	<a href="">forget password?</a></div>
 	<button type="submit" class="btn">login</button>
 	<div class="register-link">
-		<p>don't have an acount 
+		<p style="color:DodgerBlue;">don't have an acount 
 			<a href="">registrater</a></p>
 		</div>
 	</form>
