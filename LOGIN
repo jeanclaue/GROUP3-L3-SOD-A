@@ -2,6 +2,7 @@
 <html>
 <head>
 </head>
+    <link rel="stylesheet" href="worklogin.css">
 <body>
 <form>
 	<form action="">
@@ -10,17 +11,17 @@
 			<input type="text" placeholder="username" required>
 			<i class="bx bxs-user"></i>
 		</div>
-		<div class="input-box">
+		<div class="input-box" style="color:Tomato;">
 			<input type="password" placeholder="password" required>
 			<i class="bx bxs-lock-alt"></i>
 		</div>
 		<div class="remember-forget">
-			<label>
+        <label style="color:DodgerBlue;">
 	<input type="checkbox"> remember me</label>
 	<a href="">forget password?</a></div>
 	<button type="submit" class="btn">login</button>
 	<div class="register-link">
-		<p>don't have an acount ?
+		<p>don't have an acount 
 			<a href="">registrater</a></p>
 		</div>
 	</form>
