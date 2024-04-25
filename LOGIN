@@ -64,7 +64,7 @@ margin: 30px;
 .btn{
 	width: 100%;
 	height: 45px;
-	background: white;
+	background: blue;
 	border: none;
 	outline: none;
 	border-radius: 40px;
@@ -106,8 +106,8 @@ a{
 }
 .logo{
 	background-image: url(nandy\ mine.png);
-	background-repeat: no-repeat;
-	background-size: 100px;
+	background: pink;
+	
 
 }
 .logo,.announce{
@@ -132,12 +132,14 @@ font-size: 30px;
 	background-color: rgba(28, 46, 53, 0.826);
 	height: 200px;
 }
-
+.head{
+background: aliceblue;
+}
 </style
 <body>
 <div class="wrapper">
 	<form action="">
-		<h1>login</h1>
+		<div class="head"><h3>fill this login form inorder to continue</h></div>
 		<div class="input-box">
 			<input type="text" placeholder="username" required>
 			<i class="bx bxs-user"></i>
