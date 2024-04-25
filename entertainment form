@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>Entertainmen5 form</title>
+</head>
+<body><form action="">
+   <center> <h1>fill the following form</h1>
+    <label>enter your first name</label> <br><br><br>
+    <input type="text" name="first name" value=" "><br><br><br>
+    <label>Enter your Second name</label><br><br><br>
+    <input type="text" name="Second name"><br><br><br>
+
+    <label>password</label> <br><br><br>
+    <input type="password" name="password" value=""><br><br><br>
+    <button>submit</button></center>
+</form>
+    
+</body>
+</html>
